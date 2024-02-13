@@ -1,0 +1,8 @@
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XmlOlusturma_2\bin\Debug\XmlOlusturma_2.exe.config
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XmlOlusturma_2\bin\Debug\XmlOlusturma_2.exe
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XmlOlusturma_2\bin\Debug\XmlOlusturma_2.pdb
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XmlOlusturma_2\bin\Debug\FakeData.dll
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XmlOlusturma_2\bin\Debug\FakeData.pdb
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XmlOlusturma_2\obj\Debug\XmlOlusturma_2.csprojResolveAssemblyReference.cache
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XmlOlusturma_2\obj\Debug\XmlOlusturma_2.exe
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XmlOlusturma_2\obj\Debug\XmlOlusturma_2.pdb

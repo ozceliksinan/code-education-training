@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lxt6g34TDETH4F3NgAb9zJuKYegDcbggmwKGtdb+0xrRVEVqwx7nIM8l7mdzNh8hKN3ez5ATaOBFNd+JKjq4aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monster\\source\\repos\\LinqTeknolojisi\\LinqTeknolojisi\\LinqTeknolojisi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\fakedata\\1.0.0\\fakedata.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'FakeData 1.0.0' paketi, proje hedef çerçevesi '.NETCoreApp,Version=v3.1' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "FakeData",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

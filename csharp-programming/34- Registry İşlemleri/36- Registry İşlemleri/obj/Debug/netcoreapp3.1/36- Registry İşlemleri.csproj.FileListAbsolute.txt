@@ -1,0 +1,4 @@
+C:\Users\Monster\source\repos\36- Registry İşlemleri\36- Registry İşlemleri\bin\Debug\netcoreapp3.1\36- Registry İşlemleri.exe
+C:\Users\Monster\source\repos\36- Registry İşlemleri\36- Registry İşlemleri\obj\Debug\netcoreapp3.1\36- Registry İşlemleri.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\36- Registry İşlemleri\36- Registry İşlemleri\obj\Debug\netcoreapp3.1\36- Registry İşlemleri.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\36- Registry İşlemleri\36- Registry İşlemleri\obj\Debug\netcoreapp3.1\36- Registry İşlemleri.AssemblyInfo.cs

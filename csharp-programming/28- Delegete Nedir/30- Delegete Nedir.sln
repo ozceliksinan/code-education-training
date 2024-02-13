@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30- Delegete Nedir", "30- Delegete Nedir\30- Delegete Nedir.csproj", "{E0A8320D-9940-400D-8185-83CDC2DC863E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A8320D-9940-400D-8185-83CDC2DC863E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A8320D-9940-400D-8185-83CDC2DC863E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A8320D-9940-400D-8185-83CDC2DC863E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A8320D-9940-400D-8185-83CDC2DC863E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14CDE3A-B1B5-48FF-8618-B88C2368ADB5}
+	EndGlobalSection
+EndGlobal

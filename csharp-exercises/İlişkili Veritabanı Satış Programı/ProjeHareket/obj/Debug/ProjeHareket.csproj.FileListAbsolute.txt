@@ -1,0 +1,12 @@
+D:\ProjeHareket\ProjeHareket\bin\Debug\ProjeHareket.exe.config
+D:\ProjeHareket\ProjeHareket\bin\Debug\ProjeHareket.exe
+D:\ProjeHareket\ProjeHareket\bin\Debug\ProjeHareket.pdb
+D:\ProjeHareket\ProjeHareket\obj\Debug\ProjeHareket.csproj.AssemblyReference.cache
+D:\ProjeHareket\ProjeHareket\obj\Debug\ProjeHareket.csproj.SuggestedBindingRedirects.cache
+D:\ProjeHareket\ProjeHareket\obj\Debug\ProjeHareket.Form1.resources
+D:\ProjeHareket\ProjeHareket\obj\Debug\ProjeHareket.Properties.Resources.resources
+D:\ProjeHareket\ProjeHareket\obj\Debug\ProjeHareket.csproj.GenerateResource.cache
+D:\ProjeHareket\ProjeHareket\obj\Debug\ProjeHareket.csproj.CoreCompileInputs.cache
+D:\ProjeHareket\ProjeHareket\obj\Debug\ProjeHareket.exe
+D:\ProjeHareket\ProjeHareket\obj\Debug\ProjeHareket.pdb
+D:\ProjeHareket\ProjeHareket\obj\Debug\ProjeHareket.FrmUrunListesi.resources

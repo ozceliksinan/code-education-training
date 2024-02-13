@@ -1,0 +1,15 @@
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\37- WMI Registry İşlemleri.exe
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\obj\Debug\netcoreapp3.1\37- WMI Registry İşlemleri.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\obj\Debug\netcoreapp3.1\37- WMI Registry İşlemleri.AssemblyInfo.cs
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\obj\Debug\netcoreapp3.1\37- WMI Registry İşlemleri.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\37- WMI Registry İşlemleri\37- WMI Registry İşlemleri\obj\Debug\netcoreapp3.1\37- WMI Registry İşlemleri.csproj.CopyComplete

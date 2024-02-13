@@ -1,0 +1,6 @@
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XML_Olusturma_1\bin\Debug\XML_Olusturma_1.exe.config
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XML_Olusturma_1\bin\Debug\XML_Olusturma_1.exe
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XML_Olusturma_1\bin\Debug\XML_Olusturma_1.pdb
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XML_Olusturma_1\obj\Debug\XML_Olusturma_1.csprojResolveAssemblyReference.cache
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XML_Olusturma_1\obj\Debug\XML_Olusturma_1.exe
+C:\Users\Cengiz\Desktop\LinqtoXMLInceleme\LinqtoXML\XML_Olusturma_1\obj\Debug\XML_Olusturma_1.pdb

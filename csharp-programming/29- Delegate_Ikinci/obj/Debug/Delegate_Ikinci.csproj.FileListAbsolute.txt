@@ -1,0 +1,6 @@
+C:\Users\CengizAtilla\Desktop\SC\Delegate_Ikinci\Delegate_Ikinci\bin\Debug\Delegate_Ikinci.exe.config
+C:\Users\CengizAtilla\Desktop\SC\Delegate_Ikinci\Delegate_Ikinci\bin\Debug\Delegate_Ikinci.exe
+C:\Users\CengizAtilla\Desktop\SC\Delegate_Ikinci\Delegate_Ikinci\bin\Debug\Delegate_Ikinci.pdb
+C:\Users\CengizAtilla\Desktop\SC\Delegate_Ikinci\Delegate_Ikinci\obj\Debug\Delegate_Ikinci.csprojResolveAssemblyReference.cache
+C:\Users\CengizAtilla\Desktop\SC\Delegate_Ikinci\Delegate_Ikinci\obj\Debug\Delegate_Ikinci.exe
+C:\Users\CengizAtilla\Desktop\SC\Delegate_Ikinci\Delegate_Ikinci\obj\Debug\Delegate_Ikinci.pdb

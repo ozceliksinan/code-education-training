@@ -1,0 +1,13 @@
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\bin\Debug\SystemIOWinForm.exe.config
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\bin\Debug\SystemIOWinForm.exe
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\bin\Debug\SystemIOWinForm.pdb
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\bin\Debug\FakeData.dll
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\bin\Debug\FakeData.pdb
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.csprojAssemblyReference.cache
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.Form1.resources
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.Properties.Resources.resources
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.GenerateResource.cache
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.csproj.CopyComplete
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.exe
+C:\Users\Cengiz Atilla\Desktop\SystemIOIslemleri\Udemy.SystemIO\SystemIOWinForm\obj\Debug\SystemIOWinForm.pdb

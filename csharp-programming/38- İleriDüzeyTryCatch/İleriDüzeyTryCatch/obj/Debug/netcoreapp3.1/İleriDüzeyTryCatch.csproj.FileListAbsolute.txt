@@ -1,0 +1,13 @@
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\bin\Debug\netcoreapp3.1\İleriDüzeyTryCatch.exe
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\bin\Debug\netcoreapp3.1\İleriDüzeyTryCatch.deps.json
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\bin\Debug\netcoreapp3.1\İleriDüzeyTryCatch.runtimeconfig.json
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\bin\Debug\netcoreapp3.1\İleriDüzeyTryCatch.runtimeconfig.dev.json
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\bin\Debug\netcoreapp3.1\İleriDüzeyTryCatch.dll
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\bin\Debug\netcoreapp3.1\İleriDüzeyTryCatch.pdb
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\obj\Debug\netcoreapp3.1\İleriDüzeyTryCatch.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\obj\Debug\netcoreapp3.1\İleriDüzeyTryCatch.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\obj\Debug\netcoreapp3.1\İleriDüzeyTryCatch.AssemblyInfo.cs
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\obj\Debug\netcoreapp3.1\İleriDüzeyTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\obj\Debug\netcoreapp3.1\İleriDüzeyTryCatch.dll
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\obj\Debug\netcoreapp3.1\İleriDüzeyTryCatch.pdb
+C:\Users\Monster\source\repos\İleriDüzeyTryCatch\İleriDüzeyTryCatch\obj\Debug\netcoreapp3.1\İleriDüzeyTryCatch.genruntimeconfig.cache

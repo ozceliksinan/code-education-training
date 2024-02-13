@@ -1,0 +1,15 @@
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\bin\Debug\netcoreapp3.1\LinqTeknolojisi.exe
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\obj\Debug\netcoreapp3.1\LinqTeknolojisi.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\obj\Debug\netcoreapp3.1\LinqTeknolojisi.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\obj\Debug\netcoreapp3.1\LinqTeknolojisi.AssemblyInfo.cs
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\bin\Debug\netcoreapp3.1\LinqTeknolojisi.deps.json
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\bin\Debug\netcoreapp3.1\LinqTeknolojisi.runtimeconfig.json
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\bin\Debug\netcoreapp3.1\LinqTeknolojisi.runtimeconfig.dev.json
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\bin\Debug\netcoreapp3.1\LinqTeknolojisi.dll
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\bin\Debug\netcoreapp3.1\LinqTeknolojisi.pdb
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\bin\Debug\netcoreapp3.1\FakeData.dll
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\obj\Debug\netcoreapp3.1\LinqTeknolojisi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\obj\Debug\netcoreapp3.1\LinqTeknolojisi.csproj.CopyComplete
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\obj\Debug\netcoreapp3.1\LinqTeknolojisi.dll
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\obj\Debug\netcoreapp3.1\LinqTeknolojisi.pdb
+C:\Users\Monster\source\repos\LinqTeknolojisi\LinqTeknolojisi\obj\Debug\netcoreapp3.1\LinqTeknolojisi.genruntimeconfig.cache

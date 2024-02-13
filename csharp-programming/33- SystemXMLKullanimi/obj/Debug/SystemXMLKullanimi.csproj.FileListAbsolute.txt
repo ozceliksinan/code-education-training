@@ -1,0 +1,6 @@
+C:\Users\Cengiz\Desktop\SystemXML\SystemXMLKullanimi\SystemXMLKullanimi\bin\Debug\SystemXMLKullanimi.exe.config
+C:\Users\Cengiz\Desktop\SystemXML\SystemXMLKullanimi\SystemXMLKullanimi\bin\Debug\SystemXMLKullanimi.exe
+C:\Users\Cengiz\Desktop\SystemXML\SystemXMLKullanimi\SystemXMLKullanimi\bin\Debug\SystemXMLKullanimi.pdb
+C:\Users\Cengiz\Desktop\SystemXML\SystemXMLKullanimi\SystemXMLKullanimi\obj\Debug\SystemXMLKullanimi.csprojResolveAssemblyReference.cache
+C:\Users\Cengiz\Desktop\SystemXML\SystemXMLKullanimi\SystemXMLKullanimi\obj\Debug\SystemXMLKullanimi.exe
+C:\Users\Cengiz\Desktop\SystemXML\SystemXMLKullanimi\SystemXMLKullanimi\obj\Debug\SystemXMLKullanimi.pdb

@@ -1,0 +1,11 @@
+D:\DovizOfisi\DovizOfisi\bin\Debug\DovizOfisi.exe.config
+D:\DovizOfisi\DovizOfisi\bin\Debug\DovizOfisi.exe
+D:\DovizOfisi\DovizOfisi\bin\Debug\DovizOfisi.pdb
+D:\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.csproj.AssemblyReference.cache
+D:\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.csproj.SuggestedBindingRedirects.cache
+D:\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.Form1.resources
+D:\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.Properties.Resources.resources
+D:\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.csproj.GenerateResource.cache
+D:\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.csproj.CoreCompileInputs.cache
+D:\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.exe
+D:\DovizOfisi\DovizOfisi\obj\Debug\DovizOfisi.pdb
